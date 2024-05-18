@@ -1,0 +1,11 @@
+#server setting
+server:
+  port: 8080
+
+#profile setting
+#application-{spring:profiles:active}.yml
+spring:
+  profiles:
+    active: local
+
+
